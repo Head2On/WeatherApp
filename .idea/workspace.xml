@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eef87a88-7b23-4c8b-bcd8-11d6460f32b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/cloudy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/humidity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/snow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/storm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/sunny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/wind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Applauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WeatherAppGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WeatherApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nKmAJwSsMlJSJBRQdfs4m7nmmk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Applauncher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeatherAppGui.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ishan/IdeaProjects/WeatherApp/lib/json-simple-1.1.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ishan\IdeaProjects\WeatherApp\src\main\assets" />
+      <recent name="C:\Users\ishan\IdeaProjects\WeatherApp\lib" />
+      <recent name="C:\Users\ishan\IdeaProjects\WeatherApp\.idea" />
+      <recent name="C:\Users\ishan\IdeaProjects\WeatherApp\src\main" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eef87a88-7b23-4c8b-bcd8-11d6460f32b2" name="Changes" comment="" />
+      <created>1728729996746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728729996746</updated>
+    </task>
+    <servers />
+  </component>
+</project>
